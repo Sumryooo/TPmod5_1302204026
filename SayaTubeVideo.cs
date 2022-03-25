@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tpmod5_1302204026
 {
-    internal class Program
+    internal class SayaTubeVideo
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("hello world");
-        }
     }
 }

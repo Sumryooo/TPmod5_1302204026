@@ -1,0 +1,8 @@
+C:\Users\ASUS -TUF GAMING\source\repos\Tpmod5_1302204026\obj\Debug\Tpmod5_1302204026.csproj.AssemblyReference.cache
+C:\Users\ASUS -TUF GAMING\source\repos\Tpmod5_1302204026\obj\Debug\Tpmod5_1302204026.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS -TUF GAMING\source\repos\Tpmod5_1302204026\obj\Debug\Tpmod5_1302204026.csproj.CoreCompileInputs.cache
+C:\Users\ASUS -TUF GAMING\source\repos\Tpmod5_1302204026\bin\Debug\Tpmod5_1302204026.exe.config
+C:\Users\ASUS -TUF GAMING\source\repos\Tpmod5_1302204026\bin\Debug\Tpmod5_1302204026.exe
+C:\Users\ASUS -TUF GAMING\source\repos\Tpmod5_1302204026\bin\Debug\Tpmod5_1302204026.pdb
+C:\Users\ASUS -TUF GAMING\source\repos\Tpmod5_1302204026\obj\Debug\Tpmod5_1302204026.exe
+C:\Users\ASUS -TUF GAMING\source\repos\Tpmod5_1302204026\obj\Debug\Tpmod5_1302204026.pdb
