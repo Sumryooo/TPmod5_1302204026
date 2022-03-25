@@ -10,7 +10,8 @@ namespace Tpmod5_1302204026
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
+            SayaTubeVideo s = new SayaTubeVideo("Tutorial Design By Contract - ADHA SURYA DWIKA_1302204026");
+            s.PrintVideoDetails();
         }
     }
 }
